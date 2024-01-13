@@ -41,7 +41,6 @@ models:
         core:
           +marterlialized: table
       
-
     staging:
       +materialized: view
 
